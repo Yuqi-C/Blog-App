@@ -1,4 +1,4 @@
-# BlogApp
+# Blog App
 # Frontend
 ## Environment
 Angular CLI: 14.2.10  
